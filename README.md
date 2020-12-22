@@ -9,6 +9,5 @@ Run `HumanoidBipedA2C.py` and `SimpleEnvA2C.py` to check out the tranining proce
 ## TO-DO
 Need to do the following for improving the results:
  - Modify reward function
- 
-  - Add negative reward for Collsion/contact among limbs
-  - Add positive reward for contact of feet with the floor/ground
+    - Add negative reward for Collsion/contact among limbs
+    - Add positive reward for contact of feet with the floor/ground
